@@ -3,7 +3,7 @@
 ## Installation & Usage
 
 - Clone repository
-- Run ApplyMe.vipc to install required dependencies
+- Run FacilitiesDailies.vipc to install required dependencies
 - Run the following VIs:
 
  ![image](https://github.com/levylabpitt/Facilities-Dailies/assets/26659428/1f2b4b56-8f55-44a3-a2da-35d9c0e6dc8f) ParseDailies.vi
